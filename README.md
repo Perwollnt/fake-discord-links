@@ -1,4 +1,4 @@
-All the fake discord link i found... If u want to pentest some websites (:
+All the fake discord links i found... If u want to pentest some websites (:
 
 - https://discordgiftss.com/
 - https://discorcl.click/
