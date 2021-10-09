@@ -7,3 +7,4 @@ All the fake discord links i found... If u want to pentest some websites (:
 - https://dlscord.gifts/
 - http://discord.gitfs/
 - https://dicord.gifts/
+- https://dlscord.net/booster
