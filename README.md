@@ -10,6 +10,6 @@ All the fake discord links i found... If u want to pentest some websites (:
 - https://dicord.gifts/
 - https://dlscord.net/booster
 - https://discord-gifte.com
-Other random fake links:
 
+Other random fake links:
 - https://discordsteams.com/airdrop
