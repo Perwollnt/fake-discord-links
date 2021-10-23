@@ -11,6 +11,7 @@ All the fake discord links i found... Some might be broken
 - https://dlscord.net/booster
 - https://discord-gifte.com
 - https://discocrd.gift/
+- https://discordn.gift/
 - Fake nitro gen: https://aylink.co/1kvn8
 
 Other random fake links:
