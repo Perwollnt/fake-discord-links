@@ -6,6 +6,17 @@ All the fake discord links i found... Some might be broken
 - https://dis.cord.gifts/
 - https://dlscord.gifts/
 - https://discordsgift.com/
+- https://doscord.com/
+- https://dioscord.com/
+- https://doiscord.com/
+- https://discordd.com/
+- https://disscord.com/
+- https://dlscord.com/
+- https://dlsscord.com/
+- https://giftcord.com/
+- https://discordgifts.com/
+- https://discordsgift.com/
+- https://discordsgifts.com/
 - http://discord.gitfs/
 - https://dicord.gifts/
 - https://dlscord.net/booster
