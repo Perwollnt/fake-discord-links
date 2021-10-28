@@ -16,6 +16,7 @@ All the fake discord links i found... Some might be broken
 - https://giftcord.com/
 - https://discordgifts.com/
 - https://discordsgift.com/
+- https://discorl.com/
 - https://discordsgifts.com/
 - http://discord.gitfs/
 - https://dicord.gifts/
@@ -25,6 +26,7 @@ All the fake discord links i found... Some might be broken
 - https://discordn.gift/
 - https://dizcord.gift/
 - https://discorl.com/
+- https://discorrl.com/
 - https://dliscord.com/
 - https://dissord.gift/
 - Fake nitro gen: https://aylink.co/1kvn8
