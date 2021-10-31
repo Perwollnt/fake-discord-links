@@ -20,7 +20,8 @@ All the fake discord links i found... Some might be broken
 - https://discordsgifts.com/
 - http://discord.gitfs/
 - https://dicord.gifts/
-- https://dlscord.net/booster
+- https://dlscord.net/
+- https://discordclgift.com/
 - https://discord-gifte.com
 - https://discocrd.gift/
 - https://discordn.gift/
