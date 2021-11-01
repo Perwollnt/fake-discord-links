@@ -20,6 +20,11 @@ All the fake discord links i found... Some might be broken
 - https://discordsgifts.com/
 - http://discord.gitfs/
 - https://dicord.gifts/
+- https://dlscrod-app.xyz/
+- https://discord-app.xyz/
+- https://discord-ap.xyz/
+- https://discordap.com/
+- https://dlscordapp.xyz/
 - https://dlscord.net/
 - https://discordclgift.com/
 - https://discord-gifte.com
