@@ -1,5 +1,6 @@
 import markdown
 import firebase_admin
+from firebase_admin import firestore
 default_app = firebase_admin.initialize_app()
 f = open("./README.md")
 gkjaséféa = markdown.markdown(f.read())
@@ -13,7 +14,7 @@ for t in text:
     if "http" in t2:
         links.append(t2)
 print(links)
-db = firebase_admin.firestore.client()
+db = firestore.client()
 db.collection("discord").document("fake-links").set({
     u'links' : links
 })
