@@ -1,7 +1,9 @@
 import markdown
+from firebase_admin import credentials
 import firebase_admin
 from firebase_admin import firestore
-default_app = firebase_admin.initialize_app()
+cred = credentials.Certificate('path/to/serviceAccount.json')
+firebase_admin.initialize_app(cred)
 f = open("./README.md")
 gkjaséféa = markdown.markdown(f.read())
 checkForLinks = False
