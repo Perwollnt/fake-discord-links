@@ -19,6 +19,8 @@ All the fake discord links i found... Some might be broken
 - https://discorl.com/
 - https://discordsgifts.com/
 - http://discord.gitfs/
+- https://discocrd-gift.com/
+- https://discorrl-gift.com/
 - https://dicord.gifts/
 - https://dlscrod-app.xyz/
 - https://discord-app.xyz/
