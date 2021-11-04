@@ -1,6 +1,7 @@
 All the fake discord links i found... Some might be broken
 
 [AUTO_IMPORT_START]
+
 - https://discordgiftss.com/
 - https://discorcl.click/
 - https://discorcl.link/
@@ -40,4 +41,5 @@ All the fake discord links i found... Some might be broken
 - http://discord.gitfs/
 - https://aylink.co/1kvn8
 - https://discordsteams.com/airdrop
+
 [AUTO_IMPORT_END]
