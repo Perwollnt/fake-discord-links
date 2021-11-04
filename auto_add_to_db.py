@@ -3,7 +3,7 @@ import firebase_admin
 from firebase_admin import firestore
 import os
 import json 
-firebase_admin.initialize_app(json.loads(os.getenv('GOOGLE_APPLICATION_CREDENTIALS'))
+firebase_admin.initialize_app(json.loads(os.getenv('GOOGLE_APPLICATION_CREDENTIALS')))
 f = open("./README.md")
 gkjaséféa = markdown.markdown(f.read())
 checkForLinks = False
