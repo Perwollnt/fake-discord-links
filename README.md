@@ -41,6 +41,8 @@ All the fake discord links i found... Some might be broken
 - https://dliscord.com/
 - https://dissord.gift/
 - http://discord.gitfs/
+- https://discocrd-gift.com/
+- https://discocrdgift.com/
 - https://aylink.co/1kvn8
 - https://discordsteams.com/airdrop
 
