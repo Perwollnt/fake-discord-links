@@ -13,6 +13,7 @@ All the fake discord links i found... Some might be broken
 - https://doiscord.com/
 - https://discordd.com/
 - https://disscord.com/
+- https://discord-gg.com/
 - https://dlscord.com/
 - https://dlsscord.com/
 - https://giftcord.com/
