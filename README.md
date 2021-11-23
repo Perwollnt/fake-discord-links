@@ -47,7 +47,6 @@ All the fake discord links i found... Some might be broken
 - https://diiscord.gift/
 - https://discordg.link/
 - http://disord.fun/
-- 
 - https://discord-app.net/
 - https://discordrgift.com/
 - https://dlsscord.com/
