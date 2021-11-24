@@ -6,6 +6,7 @@ All the fake discord links i found... Some might be broken
 - https://discorcl.click/
 - https://discorcl.link/
 - https://dis.cord.gifts/
+- https://stearncormnnuity.ru/
 - https://dlscord.gifts/
 - https://discordsgift.com/
 - https://discordg.com/
