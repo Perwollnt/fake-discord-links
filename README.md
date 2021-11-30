@@ -10,6 +10,7 @@ All the fake discord links i found... Some might be broken
 - https://dlscord.gifts/
 - https://discordsgift.com/
 - https://discordg.com/
+- https://dicsord-presen.ru/
 - https://doscord.com/
 - https://dioscord.com/
 - https://doiscord.com/
