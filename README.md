@@ -11,6 +11,7 @@ All the fake discord links i found... Some might be broken
 - https://discordsgift.com/
 - https://discordg.com/
 - https://dicsord-presen.ru/
+- https://dicsordgifts.ru/
 - https://doscord.com/
 - https://dioscord.com/
 - https://doiscord.com/
