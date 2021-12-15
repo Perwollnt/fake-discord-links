@@ -24,6 +24,7 @@ All the fake discord links i found... Some might be broken
 - https://discordn.gift/
 - https://disscord.com/
 - https://discord-gg.com/
+- https://nitro-gg.xyz/
 - https://discrod-apps.xyz/
 - https://dlscord.com/
 - https://dlsocrd.com/
