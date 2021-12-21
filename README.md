@@ -38,6 +38,10 @@ All the fake discord links i found... Some might be broken
 - https://steancomunnity.ru/
 - https://steancommunytiu.ru/
 - https://steamcommunity.link/
+- https://discrode-gift.com/
+- https://discrodegift.com/
+- https://discrcode-gift.com/
+- https://discrcodegift.com/
 - https://discord.nitro.link.com
 - https://stearncomminuty.ru/
 - https://dlsccord-apps.com/
