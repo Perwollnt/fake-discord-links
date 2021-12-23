@@ -33,6 +33,7 @@ All the fake discord links i found... Some might be broken
 - https://discord-app.me/
 - https://disrcod.gifts/
 - https://discord-nitro.link/
+- https://steamdiscordt.com/
 - https://steamcommunytu.ru/
 - https://stearncomminuty.ru/
 - https://steancomunnity.ru/
