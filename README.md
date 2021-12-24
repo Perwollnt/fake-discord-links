@@ -23,6 +23,7 @@ All the fake discord links i found... Some might be broken
 - https://diisccord-gift.com/
 - https://discorrl.com/
 - https://discordd.com/
+- https://discrode-app.com/
 - https://discordn.gift/
 - https://disscord.com/
 - https://discord-gg.com/
